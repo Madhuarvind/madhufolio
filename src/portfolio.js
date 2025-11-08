@@ -26,7 +26,7 @@ const greeting = {
     "Aspiring Data Analyst and Developer passionate about transforming raw data into actionable insights through scalable and sustainable solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1TNPXOp74RA6GDe-PkvJ8lSpMy1Kja_S9/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1PxfK3ukh0iY4D-tyhAM9cp-HWz3hPEG7/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -303,6 +303,10 @@ const bigProjects = {
         {
           name: "View on GitHub",
           url: "https://github.com/Madhuarvind/Code_Challenge_AI"
+        },
+        {
+          name: "Live Site",
+          url: "https://code-challenge-ai.netlify.app/"
         }
       ]
     },

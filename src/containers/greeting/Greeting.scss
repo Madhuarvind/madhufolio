@@ -120,6 +120,15 @@
   }
 }
 
+@media (max-width: 480px) {
+  .greeting-text {
+    font-size: 24px;
+  }
+  .greeting-text-p {
+    font-size: 14px;
+  }
+}
+
 @media (max-width: 320px) {
   .main {
     width: auto;

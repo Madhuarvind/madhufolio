@@ -76,6 +76,15 @@
   }
 }
 
+@media (max-width: 480px) {
+  .card-title {
+    font-size: 18px;
+  }
+  .card-subtitle {
+    font-size: 14px;
+  }
+}
+
 .project-card-footer span.project-tag {
   background: $buttonColor;
   color: $lightBackground3;

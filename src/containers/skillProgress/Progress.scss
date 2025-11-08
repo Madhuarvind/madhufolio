@@ -68,3 +68,13 @@
     order: 2;
   }
 }
+
+@media (max-width: 480px) {
+  .skill-bars {
+    font-size: 20px;
+    width: 100%;
+  }
+  .skills-bar {
+    line-height: 2rem;
+  }
+}

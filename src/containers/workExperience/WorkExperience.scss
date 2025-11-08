@@ -35,3 +35,12 @@
     text-align: center;
   }
 }
+
+@media (max-width: 480px) {
+  .experience-heading {
+    font-size: 24px;
+  }
+  .experience-cards-div {
+    grid-template-columns: 1fr;
+  }
+}
