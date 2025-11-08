@@ -32,3 +32,12 @@
     text-align: center;
   }
 }
+
+@media (max-width: 480px) {
+  .achievement-heading {
+    font-size: 24px;
+  }
+  .achievement-subtitle {
+    font-size: 14px;
+  }
+}

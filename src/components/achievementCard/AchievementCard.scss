@@ -49,6 +49,18 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem 1rem;
 }
+
+@media (max-width: 480px) {
+  .achievement-cards-div {
+    grid-template-columns: 1fr;
+  }
+  .card-title {
+    font-size: 1.125rem;
+  }
+  .card-subtitle {
+    font-size: 0.875rem;
+  }
+}
 .certificate-card-footer {
   display: flex;
   align-items: center;
